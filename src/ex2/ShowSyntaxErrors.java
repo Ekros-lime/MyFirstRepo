@@ -1,3 +1,4 @@
+package ex2;
 
 public class ShowSyntaxErrors {
 	/*public static main(String[] args){

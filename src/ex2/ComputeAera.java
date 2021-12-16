@@ -1,3 +1,4 @@
+package ex2;
 
 public class ComputeAera {
 	public static void main(String[] args) {
